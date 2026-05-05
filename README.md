@@ -2,8 +2,6 @@
 
 🏢 Software engineer @ Anthon GmBh
 
-🤖 Working on Corta - LLM deployments
-
 🎮 Addon developer in my spare time
 
 
